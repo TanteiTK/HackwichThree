@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F66206122334028008DBC68 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F66206022334028008DBC68 /* ThirdViewController.swift */; };
 		7FDF9BB5220CC34500CF543D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FDF9BB4220CC34500CF543D /* AppDelegate.swift */; };
 		7FDF9BB7220CC34500CF543D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FDF9BB6220CC34500CF543D /* ViewController.swift */; };
 		7FDF9BBA220CC34500CF543D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FDF9BB8220CC34500CF543D /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7F66206022334028008DBC68 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		7FDF9BB1220CC34500CF543D /* HackwichThree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackwichThree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FDF9BB4220CC34500CF543D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FDF9BB6220CC34500CF543D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				7FDF9BB4220CC34500CF543D /* AppDelegate.swift */,
 				7FDF9BB6220CC34500CF543D /* ViewController.swift */,
 				7FDF9BB8220CC34500CF543D /* Main.storyboard */,
+				7F66206022334028008DBC68 /* ThirdViewController.swift */,
 				7FDF9BE2220CC8BC00CF543D /* SecondViewController.swift */,
 				7FDF9BBB220CC34500CF543D /* Assets.xcassets */,
 				7FDF9BBD220CC34500CF543D /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			files = (
 				7FDF9BE3220CC8BC00CF543D /* SecondViewController.swift in Sources */,
 				7FDF9BB7220CC34500CF543D /* ViewController.swift in Sources */,
+				7F66206122334028008DBC68 /* ThirdViewController.swift in Sources */,
 				7FDF9BB5220CC34500CF543D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
